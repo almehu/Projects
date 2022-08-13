@@ -12,3 +12,4 @@
 
 ###### Developers: Benjamin Sihota, Anupreet Singh, Cameron Taylor, Joshua Poole, and Alexandra Hutchins
 ###### Technologies: Vue.js, Boostrap, Py4web, MySQL, and integration of Google Maps API
+###### Strong emphasis on SCRUM/ Agile methodology and utilziation of Pycharm's "Code with Me" peer programming feature.
