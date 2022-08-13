@@ -14,4 +14,4 @@
 
 ###### *Strong emphasis on SCRUM/ Agile methodology and version control system with git.
 
-![Neurula Screenshot](https://imgur.com/a/zqxmMwl)
+![Neurula Screenshot](https://imgur.com/a/zqxmMwl.png)
