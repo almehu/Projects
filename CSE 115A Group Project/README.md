@@ -10,4 +10,4 @@
 
 ### Group Project developed over the course of the quarter can be found: https://github.com/genicos/nn_gui & https://neurula.onrender.com
 ###### Developers: Alexandra Hutchins, Nicolas Ayala, Anish Pahilajani, Kat Negrete, and Mahesh Vegiraju
-###### Technologies: Svelte, javascript, FastAPI, Python, Heroku
+###### Technologies: Svelte, HTML/ CSS/ Javascript, FastAPI, Python, Heroku
